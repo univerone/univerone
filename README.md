@@ -1,11 +1,3 @@
-github profile markdown generator logo
-Github Profile README Generator
-Star this repo 1059
-Fork on Github 126
-back to edit
-copy-markdown
-download
-preview
 <h1 align="center">Hi 👋, I'm univerone</h1>
 <h3 align="center">I am new to computer science,and I want to be a professional researcher.</h3>
 
