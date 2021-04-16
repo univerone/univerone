@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=univerone" alt="univerone" /> </p>
 
-- 🌱 I’m currently learning **object detection**
+- 🌱 I’m currently learning **MLOps**
 
 - 👨‍💻 All of my projects are available at [https://github.com/univerone](https://github.com/univerone)
 
